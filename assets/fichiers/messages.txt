@@ -1,0 +1,10 @@
+lala : Salut les gars
+Daour : Salut lala comment tu vas
+amy4 : Salut c amy4 je suis nouvelle qui est la pour me souhaiter la bienvenue
+Daour : Bah Salut c Daour mais mes amis m'appele daw. Et bienvenue à toi amy4 ici c la famille des geeks.
+shadow : Salut les gars; comment vous allez?
+idy : Salut c idy Je suis content d'integrer le groupe et merci pour tout
+@lain : Salut au fait j'aimerais avoir un peu d'aide pour mon projet django je n'arrive pas à créer la base de données.
+Papa : Bah il y'a un playlist de FORMASYS sur www.youtube.com ça pourrait bien t'aider.
+@lain : Waoh, c cool ici je vais essayer de voir si ça aide et merci d'avance.
+papa : ok on est ensemble.
